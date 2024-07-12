@@ -1,0 +1,13 @@
+.digit {
+  width: 150px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__span {
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 500;
+    color: red;
+  }
+}

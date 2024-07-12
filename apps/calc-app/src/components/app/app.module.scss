@@ -1,0 +1,12 @@
+.app {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+
+  &__digits {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
